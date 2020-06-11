@@ -1,1 +1,3 @@
-ECHO bekapcsolva
+Bob
+Jim
+Marry
